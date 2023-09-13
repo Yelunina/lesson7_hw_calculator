@@ -61,7 +61,7 @@ public class SwitchCaseAppl {
         if (oper != 1 && oper != 2 && oper != 3 && oper != 4) {
             System.out.println("Wrong operation");
         }
-        return a;
+        return 0;
     }
 }
 
