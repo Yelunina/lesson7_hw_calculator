@@ -3,6 +3,8 @@ public class SwitchCaseAppl {
     public static void main(String[] args) {
         calculator(5, 0, 4);
         calculator1(5, 5, 15);
+        double result = calculator2(5, 5, 7);
+        System.out.println(result);
 
     }
 
